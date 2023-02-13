@@ -16,8 +16,6 @@ open localhost:3000
 <ol>
   <li>Next JS</li>
   <li>React JS</li>
-  <li>Material UI</li>
-  <li>Mantine Dev</li>
   <li>Tailwind CSS</li>
   <li>React Icons</li>
 </ol>
